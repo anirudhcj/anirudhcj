@@ -1,23 +1,29 @@
-# Anirudh CJ
+# 👋 Hey, I'm Anirudh CJ
 
-### Building things. Exploring ideas. Making technology useful.
+### 🚀 From ideas to impact.
 
-Information Science & Engineering student interested in **Software Engineering, AI and building products that solve real problems.**
+Passionate about **Software Engineering, Artificial Intelligence and building products that solve real-world problems.**
 
-Currently exploring the intersection of AI and full-stack development.
+Interested in exploring emerging technologies, creating meaningful products and turning ambitious ideas into reality.
 
-### What I'm exploring
-- Full-Stack Development · MERN
-- Artificial Intelligence · Generative AI
-- Data Structures & Algorithms
-- Building real-world products
+---
 
-### Selected Work
-- **[MockMate](https://github.com/anirudhcj/MockMate)** — AI-powered mock interview platform.
-- **[AI Legal Adviser](https://github.com/anirudhcj/ai-legal-adviser)** — AI-powered legal assistance.
-- **KrishiPulse** — Agri-tech hackathon project · 4th Place 🏆
+### 🎯 What I'm Into
 
-### Connect
-[LinkedIn](https://www.linkedin.com/in/anirudh-cj-928077282/) · [GitHub](https://github.com/anirudhcj)
+- 💻 Software Engineering
+- 🤖 AI & Generative AI
+- 🌐 Full-Stack Development
+- 🧠 Data Structures & Problem Solving
+- 🚀 Entrepreneurship & Building Products
 
-*Curious by nature. Builder by choice.*
+### 🌱 Currently Focused On
+
+Learning by building, experimenting with AI and becoming a better engineer every day.
+
+### 🤝 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/anirudh-cj-928077282/) · 🐙 [GitHub](https://github.com/anirudhcj)
+
+---
+
+*Think big. Build relentlessly. Stay curious.*
