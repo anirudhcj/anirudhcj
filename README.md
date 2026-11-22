@@ -22,7 +22,7 @@ Learning by building, experimenting with AI and becoming a better engineer every
 
 ### 🤝 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/anirudh-cj-928077282/) · 🐙 [GitHub](https://github.com/anirudhcj)
+💼 [LinkedIn](https://www.linkedin.com/in/anirudh-c-j-aeiou7/) · 🐙 [GitHub](https://github.com/anirudhcj) . 𝕏 [X](https://x.com/anirudhcj7)
 
 ---
 
