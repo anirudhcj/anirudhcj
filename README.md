@@ -1,16 +1,23 @@
-## Hi there 👋
+# Anirudh CJ
 
-<!--
-**anirudhcj/anirudhcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building things. Exploring ideas. Making technology useful.
 
-Here are some ideas to get you started:
+Information Science & Engineering student interested in **Software Engineering, AI and building products that solve real problems.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the intersection of AI and full-stack development.
+
+### What I'm exploring
+- Full-Stack Development · MERN
+- Artificial Intelligence · Generative AI
+- Data Structures & Algorithms
+- Building real-world products
+
+### Selected Work
+- **[MockMate](https://github.com/anirudhcj/MockMate)** — AI-powered mock interview platform.
+- **[AI Legal Adviser](https://github.com/anirudhcj/ai-legal-adviser)** — AI-powered legal assistance.
+- **KrishiPulse** — Agri-tech hackathon project · 4th Place 🏆
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/anirudh-cj-928077282/) · [GitHub](https://github.com/anirudhcj)
+
+*Curious by nature. Builder by choice.*
